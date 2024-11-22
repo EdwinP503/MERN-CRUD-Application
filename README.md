@@ -1,3 +1,28 @@
+# Back End Development of a Medical CRUD Application
+
+**Project Duration**: Feb 2024 - Apr 2024  
+**Organization**: Hack.Diversity  
+
+## Overview  
+This project involved developing the back-end of a CRUD application for managing medical records. Built using the **MERN Stack**, the application ensures secure and scalable handling of sensitive patient data.  
+
+## Objectives  
+- Create RESTful API endpoints to enable CRUD operations for patient records.  
+- Collaborate with front-end developers to ensure seamless data integration.  
+- Design a secure and scalable system for handling 1000+ patient records.
+
+## Technologies  
+- **MongoDB**  
+- **Express.js**  
+- **React.js**  
+- **Node.js**
+- **npm**  
+
+## Outcomes  
+- Delivered a secure and efficient API for patient record management.  
+- Successfully integrated the back-end with the front-end team’s React application.
+
+
 # Hack.Diversity Tech Dive Template
 
 ## Getting Started
